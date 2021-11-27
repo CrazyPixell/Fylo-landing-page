@@ -1,0 +1,14 @@
+{
+  "name": "fylo-dark-theme-landing-page-master",
+  "version": "1.0.0",
+  "description": "Fylo landing page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "CrazyPixell",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.43.5"
+  }
+}
